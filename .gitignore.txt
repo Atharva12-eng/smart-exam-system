@@ -1,0 +1,5 @@
+database.json
+students.csv
+timetable.csv
+__pycache__/
+.env

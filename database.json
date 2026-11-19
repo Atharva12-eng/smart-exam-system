@@ -1,0 +1,132 @@
+{
+    "students": [],
+    "timetable": [
+        {
+            "code": "23ASH1109",
+            "name": "Mathematical Foundation for Computing - III",
+            "date": "2026-11-02",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE2001",
+            "name": "Microcontroller Application",
+            "date": "2026-11-02",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE2003",
+            "name": "Software Engineering",
+            "date": "2026-11-04",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE2002",
+            "name": "Data Structures and Algorithms",
+            "date": "2026-11-04",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE1010",
+            "name": "Project Based Learning - I",
+            "date": "2026-11-06",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE2004",
+            "name": "Database Management Systems",
+            "date": "2026-11-06",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE2009",
+            "name": "Database Management Systems Lab",
+            "date": "2026-11-08",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE1012",
+            "name": "Python Essentials",
+            "date": "2026-11-08",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CIV1302",
+            "name": "Environmental Studies",
+            "date": "2026-11-10",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23SHD1007",
+            "name": "Societal Immersion, Spirituality and Morality - I",
+            "date": "2026-11-10",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23SCL2001",
+            "name": "Aptitude and Professional Skills - Foundation",
+            "date": "2026-11-12",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE1011",
+            "name": "Economics for Engineers",
+            "date": "2026-11-12",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE3004",
+            "name": "Operating System",
+            "date": "2026-11-14",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE2011",
+            "name": "Computer Networks",
+            "date": "2026-11-14",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE2013",
+            "name": "Project Based Learning-II",
+            "date": "2026-11-16",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23MIE5001",
+            "name": "Entrepreneurship",
+            "date": "2026-11-16",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE3003",
+            "name": "Web Technology",
+            "date": "2026-11-18",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE2016",
+            "name": "Research Writing and Scientific Communication",
+            "date": "2026-11-18",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23CSE2017",
+            "name": "Theory of Computation",
+            "date": "2026-11-20",
+            "time": "10:00 AM - 01:00 PM"
+        },
+        {
+            "code": "23CSE3082",
+            "name": "Financial Literacy and Securities Market Primer",
+            "date": "2026-11-20",
+            "time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "code": "23SHD1008",
+            "name": "Societal Immersion Spirituality and Morality - II",
+            "date": "2026-11-22",
+            "time": "10:00 AM - 01:00 PM"
+        }
+    ],
+    "cohort_total": 1000
+}
